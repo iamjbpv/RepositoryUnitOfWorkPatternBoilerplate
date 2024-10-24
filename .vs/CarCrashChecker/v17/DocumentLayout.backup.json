@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\CarCrashChecker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F88D1908-C1B2-4DA3-ADC5-25567D3EEEA1}|CarCrashChecker\\CarCrashChecker.csproj|c:\\users\\admin\\source\\repos\\carcrashchecker\\carcrashchecker\\features\\car\\queries\\getcarqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F88D1908-C1B2-4DA3-ADC5-25567D3EEEA1}|CarCrashChecker\\CarCrashChecker.csproj|solutionrelative:carcrashchecker\\features\\car\\queries\\getcarqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F88D1908-C1B2-4DA3-ADC5-25567D3EEEA1}|CarCrashChecker\\CarCrashChecker.csproj|c:\\users\\admin\\source\\repos\\carcrashchecker\\carcrashchecker\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F88D1908-C1B2-4DA3-ADC5-25567D3EEEA1}|CarCrashChecker\\CarCrashChecker.csproj|solutionrelative:carcrashchecker\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F88D1908-C1B2-4DA3-ADC5-25567D3EEEA1}|CarCrashChecker\\CarCrashChecker.csproj|c:\\users\\admin\\source\\repos\\carcrashchecker\\carcrashchecker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F88D1908-C1B2-4DA3-ADC5-25567D3EEEA1}|CarCrashChecker\\CarCrashChecker.csproj|solutionrelative:carcrashchecker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F88D1908-C1B2-4DA3-ADC5-25567D3EEEA1}|CarCrashChecker\\CarCrashChecker.csproj|c:\\users\\admin\\source\\repos\\carcrashchecker\\carcrashchecker\\features\\car\\queries\\getcarquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F88D1908-C1B2-4DA3-ADC5-25567D3EEEA1}|CarCrashChecker\\CarCrashChecker.csproj|solutionrelative:carcrashchecker\\features\\car\\queries\\getcarquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F88D1908-C1B2-4DA3-ADC5-25567D3EEEA1}|CarCrashChecker\\CarCrashChecker.csproj|c:\\users\\admin\\source\\repos\\carcrashchecker\\carcrashchecker\\repositories\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F88D1908-C1B2-4DA3-ADC5-25567D3EEEA1}|CarCrashChecker\\CarCrashChecker.csproj|solutionrelative:carcrashchecker\\repositories\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F88D1908-C1B2-4DA3-ADC5-25567D3EEEA1}|CarCrashChecker\\CarCrashChecker.csproj|c:\\users\\admin\\source\\repos\\carcrashchecker\\carcrashchecker\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F88D1908-C1B2-4DA3-ADC5-25567D3EEEA1}|CarCrashChecker\\CarCrashChecker.csproj|solutionrelative:carcrashchecker\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F88D1908-C1B2-4DA3-ADC5-25567D3EEEA1}|CarCrashChecker\\CarCrashChecker.csproj|c:\\users\\admin\\source\\repos\\carcrashchecker\\carcrashchecker\\interfaces\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F88D1908-C1B2-4DA3-ADC5-25567D3EEEA1}|CarCrashChecker\\CarCrashChecker.csproj|solutionrelative:carcrashchecker\\interfaces\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F88D1908-C1B2-4DA3-ADC5-25567D3EEEA1}|CarCrashChecker\\CarCrashChecker.csproj|c:\\users\\admin\\source\\repos\\carcrashchecker\\carcrashchecker\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F88D1908-C1B2-4DA3-ADC5-25567D3EEEA1}|CarCrashChecker\\CarCrashChecker.csproj|solutionrelative:carcrashchecker\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F88D1908-C1B2-4DA3-ADC5-25567D3EEEA1}|CarCrashChecker\\CarCrashChecker.csproj|c:\\users\\admin\\source\\repos\\carcrashchecker\\carcrashchecker\\profiles\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F88D1908-C1B2-4DA3-ADC5-25567D3EEEA1}|CarCrashChecker\\CarCrashChecker.csproj|solutionrelative:carcrashchecker\\profiles\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F88D1908-C1B2-4DA3-ADC5-25567D3EEEA1}|CarCrashChecker\\CarCrashChecker.csproj|c:\\users\\admin\\source\\repos\\carcrashchecker\\carcrashchecker\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F88D1908-C1B2-4DA3-ADC5-25567D3EEEA1}|CarCrashChecker\\CarCrashChecker.csproj|solutionrelative:carcrashchecker\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F88D1908-C1B2-4DA3-ADC5-25567D3EEEA1}|CarCrashChecker\\CarCrashChecker.csproj|c:\\users\\admin\\source\\repos\\carcrashchecker\\carcrashchecker\\models\\carvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F88D1908-C1B2-4DA3-ADC5-25567D3EEEA1}|CarCrashChecker\\CarCrashChecker.csproj|solutionrelative:carcrashchecker\\models\\carvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F88D1908-C1B2-4DA3-ADC5-25567D3EEEA1}|CarCrashChecker\\CarCrashChecker.csproj|c:\\users\\admin\\source\\repos\\carcrashchecker\\carcrashchecker\\migrations\\20241024131229_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F88D1908-C1B2-4DA3-ADC5-25567D3EEEA1}|CarCrashChecker\\CarCrashChecker.csproj|solutionrelative:carcrashchecker\\migrations\\20241024131229_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F88D1908-C1B2-4DA3-ADC5-25567D3EEEA1}|CarCrashChecker\\CarCrashChecker.csproj|c:\\users\\admin\\source\\repos\\carcrashchecker\\carcrashchecker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F88D1908-C1B2-4DA3-ADC5-25567D3EEEA1}|CarCrashChecker\\CarCrashChecker.csproj|solutionrelative:carcrashchecker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F88D1908-C1B2-4DA3-ADC5-25567D3EEEA1}|CarCrashChecker\\CarCrashChecker.csproj|c:\\users\\admin\\source\\repos\\carcrashchecker\\carcrashchecker\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F88D1908-C1B2-4DA3-ADC5-25567D3EEEA1}|CarCrashChecker\\CarCrashChecker.csproj|solutionrelative:carcrashchecker\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F88D1908-C1B2-4DA3-ADC5-25567D3EEEA1}|CarCrashChecker\\CarCrashChecker.csproj|c:\\users\\admin\\source\\repos\\carcrashchecker\\carcrashchecker\\entities\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F88D1908-C1B2-4DA3-ADC5-25567D3EEEA1}|CarCrashChecker\\CarCrashChecker.csproj|solutionrelative:carcrashchecker\\entities\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CarCrashChecker\\CarCrashChecker\\Profiles\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "CarCrashChecker\\Profiles\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CarCrashChecker\\CarCrashChecker\\Profiles\\MappingProfile.cs",
+              "RelativeToolTip": "CarCrashChecker\\Profiles\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T13:47:28.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetCarQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CarCrashChecker\\CarCrashChecker\\Features\\Car\\Queries\\GetCarQueryHandler.cs",
+              "RelativeDocumentMoniker": "CarCrashChecker\\Features\\Car\\Queries\\GetCarQueryHandler.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CarCrashChecker\\CarCrashChecker\\Features\\Car\\Queries\\GetCarQueryHandler.cs",
+              "RelativeToolTip": "CarCrashChecker\\Features\\Car\\Queries\\GetCarQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T13:34:54.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CarVm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CarCrashChecker\\CarCrashChecker\\Models\\CarVm.cs",
+              "RelativeDocumentMoniker": "CarCrashChecker\\Models\\CarVm.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CarCrashChecker\\CarCrashChecker\\Models\\CarVm.cs",
+              "RelativeToolTip": "CarCrashChecker\\Models\\CarVm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T13:29:17.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetCarQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CarCrashChecker\\CarCrashChecker\\Features\\Car\\Queries\\GetCarQuery.cs",
+              "RelativeDocumentMoniker": "CarCrashChecker\\Features\\Car\\Queries\\GetCarQuery.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CarCrashChecker\\CarCrashChecker\\Features\\Car\\Queries\\GetCarQuery.cs",
+              "RelativeToolTip": "CarCrashChecker\\Features\\Car\\Queries\\GetCarQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T13:27:50.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20241024131229_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CarCrashChecker\\CarCrashChecker\\Migrations\\20241024131229_InitialCreate.cs",
+              "RelativeDocumentMoniker": "CarCrashChecker\\Migrations\\20241024131229_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CarCrashChecker\\CarCrashChecker\\Migrations\\20241024131229_InitialCreate.cs",
+              "RelativeToolTip": "CarCrashChecker\\Migrations\\20241024131229_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T13:12:29.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CarCrashChecker\\CarCrashChecker\\appsettings.json",
+              "RelativeDocumentMoniker": "CarCrashChecker\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CarCrashChecker\\CarCrashChecker\\appsettings.json",
+              "RelativeToolTip": "CarCrashChecker\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-24T08:45:49.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CarCrashChecker\\CarCrashChecker\\Program.cs",
+              "RelativeDocumentMoniker": "CarCrashChecker\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CarCrashChecker\\CarCrashChecker\\Program.cs",
+              "RelativeToolTip": "CarCrashChecker\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T08:28:02.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CarCrashChecker\\CarCrashChecker\\Controllers\\CarController.cs",
+              "RelativeDocumentMoniker": "CarCrashChecker\\Controllers\\CarController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CarCrashChecker\\CarCrashChecker\\Controllers\\CarController.cs",
+              "RelativeToolTip": "CarCrashChecker\\Controllers\\CarController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T08:36:46.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CarCrashChecker\\CarCrashChecker\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "CarCrashChecker\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CarCrashChecker\\CarCrashChecker\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "CarCrashChecker\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T08:26:06.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CarCrashChecker\\CarCrashChecker\\Data\\DbContext.cs",
+              "RelativeDocumentMoniker": "CarCrashChecker\\Data\\DbContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CarCrashChecker\\CarCrashChecker\\Data\\DbContext.cs",
+              "RelativeToolTip": "CarCrashChecker\\Data\\DbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T08:14:28.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CarRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CarCrashChecker\\CarCrashChecker\\Repositories\\CarRepository.cs",
+              "RelativeDocumentMoniker": "CarCrashChecker\\Repositories\\CarRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CarCrashChecker\\CarCrashChecker\\Repositories\\CarRepository.cs",
+              "RelativeToolTip": "CarCrashChecker\\Repositories\\CarRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T08:21:59.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICarRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CarCrashChecker\\CarCrashChecker\\Interfaces\\ICarRepository.cs",
+              "RelativeDocumentMoniker": "CarCrashChecker\\Interfaces\\ICarRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CarCrashChecker\\CarCrashChecker\\Interfaces\\ICarRepository.cs",
+              "RelativeToolTip": "CarCrashChecker\\Interfaces\\ICarRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T08:21:35.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CarCrashChecker\\CarCrashChecker\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "CarCrashChecker\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CarCrashChecker\\CarCrashChecker\\Repositories\\Repository.cs",
+              "RelativeToolTip": "CarCrashChecker\\Repositories\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T08:20:43.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CarCrashChecker\\CarCrashChecker\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "CarCrashChecker\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CarCrashChecker\\CarCrashChecker\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "CarCrashChecker\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T08:17:27.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CarCrashChecker\\CarCrashChecker\\Entities\\Car.cs",
+              "RelativeDocumentMoniker": "CarCrashChecker\\Entities\\Car.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CarCrashChecker\\CarCrashChecker\\Entities\\Car.cs",
+              "RelativeToolTip": "CarCrashChecker\\Entities\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T08:12:41.731Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
